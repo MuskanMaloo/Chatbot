@@ -1,0 +1,9 @@
+{
+    "greet": ["Hi", "How are you","how are you doing", "Is anyone there?", "Hello", "Good day", "Whats up","good morning","whats goin on"],
+    "goodbye":["cya", "See you later", "Goodbye", "I am Leaving", "Have a Good day"],
+     "age": ["how old", "how old is tim", "what is your age", "how old are you", "age?"],
+     "name": ["what is your name", "what should I call you", "whats your name?"],
+    "shop": ["Id like to buy something", "whats on the menu", "what do you reccommend?", "could i get something to eat"],
+    "hours": ["when are you guys open", "what are your hours", "hours of operation"]
+        
+}
