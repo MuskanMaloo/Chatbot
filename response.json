@@ -1,0 +1,8 @@
+{
+    "greet":["Hello!", "Good to see you again!", "Hi there, how can I help?"],
+    "goodbye": ["Sad to see you go :(", "Talk to you later", "Goodbye!"],
+    "age":["I am 18 years old!", "18 years young!"],
+    "name":["You can call me Tim.", "I'm Tim!", "I'm Tim aka Tech With Tim."],
+    "shop":["We sell chocolate chip cookies for $2!", "Cookies are on the menu!"],
+    "hours":["We are open 7am-4pm Monday-Friday!"]
+}
